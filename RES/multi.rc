@@ -1,0 +1,10 @@
+tlo         BITMAP            tlo2.bmp
+obrot		WAVE 		dzwiek\chimes.wav
+nie_wolno	WAVE 		dzwiek\incorrec.wav
+upuszczenie	WAVE 		dzwiek\gnoop.wav
+wygrana		WAVE 		dzwiek\trumpet1.wav
+MAINICON 	ICON 		under_21.ico
+ladowanie0 BITMAP other\ladowanie.bmp
+start0     PUZLE_DATA other\start.jpg
+kursor CURSOR kursory\kursor3.cur
+czekaj CURSOR kursory\kursor5.cur
